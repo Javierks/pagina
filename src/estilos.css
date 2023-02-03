@@ -1,0 +1,49 @@
+.contenedor-rojo{
+    background-color: rgb(253, 0, 21);
+    
+    max-width: 1200px;
+    margin:auto;
+    height: 100px; 
+}
+
+.contenedor-azul{
+
+    background-color: blue;
+    height: 50px;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 0px;
+    
+
+
+}
+
+.cuadro1{
+
+    background-color: aqua;
+
+    margin:auto;
+    margin-top: 50px;
+    margin-left: 600px;
+
+
+}
+
+.primero{
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: auto;
+    margin-top: 83px;
+
+
+}
+
+.inforcard:hover{
+
+    background-color: red;
+    
+
+
+
+}
